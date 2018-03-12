@@ -1,5 +1,5 @@
 # Start your Spring Boot Service with Docker
-[![Build Status](https://travis-ci.org/kliangh/spring-boot-docker-example.svg?branch=master)](https://travis-ci.org/kliangh/spring-boot-docker-example)
+[![Build Status](https://img.shields.io/travis/kliangh/spring-boot-docker-example.svg)](https://travis-ci.org/kliangh/spring-boot-docker-example)
 
 ## tutorial
 1. Create a `Dockerfile` in your project.
